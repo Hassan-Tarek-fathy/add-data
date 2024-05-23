@@ -1,0 +1,10 @@
+D:\section 4\section4\bin\Debug\section4.exe.config
+D:\section 4\section4\bin\Debug\section4.exe
+D:\section 4\section4\bin\Debug\section4.pdb
+D:\section 4\section4\obj\Debug\uniqe.csproj.AssemblyReference.cache
+D:\section 4\section4\obj\Debug\section4.Form1.resources
+D:\section 4\section4\obj\Debug\section4.Properties.Resources.resources
+D:\section 4\section4\obj\Debug\uniqe.csproj.GenerateResource.cache
+D:\section 4\section4\obj\Debug\uniqe.csproj.CoreCompileInputs.cache
+D:\section 4\section4\obj\Debug\section4.exe
+D:\section 4\section4\obj\Debug\section4.pdb
